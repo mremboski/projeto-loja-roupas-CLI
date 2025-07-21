@@ -1,0 +1,2 @@
+10;Camisa;M;preto;100;https://imgnike-a.akamaihd.net/1920x1920/028918IDA6.jpg
+11;Calca;GG;Amarelo;199;https://imgnike-a.akamaihd.net/360x360/028729IDA8.jpg
